@@ -1,0 +1,8 @@
+niagahoster
+email:dul.rachmana7x@gmail.com
+pass: Timsolid1!
+
+FTP Username: panel@queue.co.id
+FTP server: ftp.queue.co.id
+FTP & explicit FTPS port:  21
+Password : +,Jg!.Ei}(Y-

@@ -1,0 +1,15 @@
+Selamat siang,
+
+Terima kasih telah menghubungi Tim IT MMBC.
+Berikut dilampirkan 
+Data API anda.
+Username : ap1_pari5_tour_12
+
+Password : K9BfWj66aeUE
+User ID : 
+Paris
+Kode Agen : JKT-146751
+Email : mulyadi_paris@yahoo.com
+No. HP : 082382709777
+
+Dokumentasi API : https://api.klikmbc.biz/
